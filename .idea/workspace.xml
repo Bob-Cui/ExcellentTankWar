@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1bf84dc4-58ac-46e1-bc30-7e0576dfa748" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZmdAcB7QygqXHHZ8HQMzM33FHT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cuibo.Mypackage" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\superTankWar\src" />
+      <recent name="E:\superTankWar\src\cuibo\package1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.NettyClient">
+    <configuration name="NettyClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.net.NettyClient" />
+      <module name="superTankWar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.net.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NettyServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.net.NettyServer" />
+      <module name="superTankWar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.net.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.net.Server" />
+      <module name="superTankWar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.net.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.net.client" />
+      <module name="superTankWar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.net.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test in superTankWar" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="superTankWar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.net.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.NettyClient" />
+        <item itemvalue="Application.NettyServer" />
+        <item itemvalue="Application.client" />
+        <item itemvalue="Application.Server" />
+        <item itemvalue="JUnit.test in superTankWar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1bf84dc4-58ac-46e1-bc30-7e0576dfa748" name="Default Changelist" comment="" />
+      <created>1585448060316</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585448060316</updated>
+      <workItem from="1585448065341" duration="4558000" />
+      <workItem from="1585483604524" duration="9417000" />
+      <workItem from="1585533836278" duration="4923000" />
+      <workItem from="1585555240196" duration="5141000" />
+      <workItem from="1585569009392" duration="1430000" />
+      <workItem from="1585570528912" duration="2440000" />
+      <workItem from="1585575289325" duration="3514000" />
+      <workItem from="1585619032483" duration="7443000" />
+      <workItem from="1585664482546" duration="1249000" />
+      <workItem from="1585706515507" duration="6992000" />
+      <workItem from="1585740282919" duration="3943000" />
+      <workItem from="1585746557710" duration="647000" />
+      <workItem from="1585788302594" duration="7428000" />
+      <workItem from="1585880283927" duration="6350000" />
+      <workItem from="1585916334004" duration="598000" />
+      <workItem from="1585968549565" duration="7118000" />
+      <workItem from="1586012483287" duration="1594000" />
+      <workItem from="1586444634956" duration="818000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Inspections" timestamp="1585558103803">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1585558103803" />
+    <state x="467" y="81" key="#NettyTest" timestamp="1585976759141">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="467" y="81" key="#NettyTest/0.0.1536.824@0.0.1536.824" timestamp="1585976759141" />
+    <state x="515" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585575568391">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="515" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1585575568391" />
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1585978886107">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1585978886107" />
+    <state x="582" y="141" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1585969567432">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="582" y="141" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1536.824@0.0.1536.824" timestamp="1585969567432" />
+    <state x="548" y="297" width="439" height="239" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1585727918958">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="297" width="439" height="239" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1585727918958" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1586445700029">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586445700029" />
+    <state x="577" y="325" key="Github.CreateGistDialog" timestamp="1585800489929">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="577" y="325" key="Github.CreateGistDialog/0.0.1536.824@0.0.1536.824" timestamp="1585800489929" />
+    <state width="1493" height="284" key="GridCell.Tab.0.bottom" timestamp="1585979762112">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="284" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585979762112" />
+    <state width="1493" height="284" key="GridCell.Tab.0.center" timestamp="1585979762112">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="284" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585979762112" />
+    <state width="1493" height="284" key="GridCell.Tab.0.left" timestamp="1585979762112">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="284" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585979762112" />
+    <state width="1493" height="284" key="GridCell.Tab.0.right" timestamp="1585979762112">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="284" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585979762112" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1585900069005">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585900069005" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1585900069005">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1585900069005" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1585900069005">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1585900069005" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1585900069005">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1585900069005" />
+    <state x="287" y="0" key="SettingsEditor" timestamp="1585969575602">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="287" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1585969575602" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1586444633818">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586444633818" />
+    <state x="305" y="368" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1585969558582">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="305" y="368" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824@0.0.1536.824" timestamp="1585969558582" />
+    <state x="321" y="148" width="894" height="604" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1585558643437">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="321" y="148" width="894" height="604" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1585558643437" />
+    <state x="178" y="22" key="new project wizard" timestamp="1586445835496">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="22" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1586445835496" />
+    <state x="511" y="30" key="refactoring.ChangeSignatureDialog" timestamp="1585536264048">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="511" y="30" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1585536264048" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1585978143045">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1585978143045" />
+  </component>
+</project>

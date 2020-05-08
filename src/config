@@ -1,0 +1,12 @@
+#这样写是注释
+#xml-yaml
+#配置文件可以使得游戏的运行更加的优雅
+initTankCount=5
+GameWidth=800
+GameHeight=600
+
+#tank fire strategy
+tankFireStrategy=DefaultFireStrategy
+colliders=BulletTankCollider,BulletWallCollider
+
+
